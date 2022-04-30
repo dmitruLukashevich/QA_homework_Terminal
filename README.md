@@ -1,1 +1,1 @@
-# qa_homework_Terminal
+# QA_homework_Terminal
